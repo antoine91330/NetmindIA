@@ -6,22 +6,22 @@ Describe your AI-based app briefly, highlighting its key features and how it imp
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](image/HomepageDashboard.png)
 *Caption for Screenshot 1*
 
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 2](image/LoginPage.png)
 *Caption for Screenshot 2*
 
-![Screenshot 3](path/to/screenshot3.png)
+![Screenshot 3](image/ITinfrastructure.png)
 *Caption for Screenshot 3*
 
-![Screenshot 4](path/to/screenshot4.png)
+![Screenshot 4](image/ScanList.png)
 *Caption for Screenshot 4*
 
-![Screenshot 5](path/to/screenshot5.png)
+![Screenshot 5](image/VulnerabilityDetail.png)
 *Caption for Screenshot 5*
 
-![Screenshot 6](path/to/screenshot6.png)
+![Screenshot 6](image/VulnerabilityList.png)
 *Caption for Screenshot 6*
 
 ## Features
