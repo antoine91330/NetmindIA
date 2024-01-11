@@ -1,4 +1,4 @@
-# Cybersecurity AI App
+# netmindAI
 
 ## Overview
 
