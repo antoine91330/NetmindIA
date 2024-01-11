@@ -51,6 +51,7 @@ Directly on the homepage, our app displays the most important vulnerabilities to
 In our application, we leverage AI to prioritize patching for the most prevalent vulnerabilities, based on the latest cyber attacks targeting SMEs. This intelligent system analyzes recent cyber incidents within the SME sector, allowing us to proactively address and patch the vulnerabilities that pose the highest risk, enhancing overall cybersecurity effectiveness.
 
 - **User-Friendly Interface:** Mention if your app has an easy-to-use interface for users.
+Our app is user-friendly thanks to the homepage dashboards, the simplicity to patch vulnerabulities in few clicks and a chatbox that can help you if you are in trouble.
 
 ## Installation
 
@@ -63,7 +64,3 @@ Explain how users can use your app effectively to enhance their network security
 ## Support and Feedback
 If you want to help us, you can fill the form :
 https://docs.google.com/forms/d/e/1FAIpQLSeBufihSa6BncvYvbLnaB3_567Ygbl2yPazZQ7DiWjr6llfSw/viewform?usp=sf_link
-
-## Conclusion
-
-Wrap up with a brief conclusion, emphasizing the importance of your app in bolstering cybersecurity.
