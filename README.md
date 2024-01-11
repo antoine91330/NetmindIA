@@ -57,7 +57,7 @@ The application is in draft stage, installation instructions will be provided la
 Explain how users can use your app effectively to enhance their network security.
 
 ## Support and Feedback
-If you want help us we can fill the form :
+If you want to help us, you can fill the form :
 https://docs.google.com/forms/d/e/1FAIpQLSeBufihSa6BncvYvbLnaB3_567Ygbl2yPazZQ7DiWjr6llfSw/viewform?usp=sf_link
 
 ## Conclusion
