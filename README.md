@@ -13,10 +13,10 @@ Describe your AI-based app briefly, highlighting its key features and how it imp
 HomepageDashboard
 *Caption for Screenshot 2*
 
-![Screenshot 3](image/ITinfrastructure.png)
+![Screenshot 3](image/ScanList.png) 
 *Caption for Screenshot 3*
 
-![Screenshot 4](image/ScanList.png)
+![Screenshot 4](image/ITinfrastructure.png)
 *Caption for Screenshot 4*
 
 ![Screenshot 5](image/VulnerabilityDetail.png)
