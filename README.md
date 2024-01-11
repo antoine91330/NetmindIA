@@ -59,7 +59,7 @@ The application is in draft stage, installation instructions will be provided la
 
 ## Usage
 
-Explain how users can use your app effectively to enhance their network security.
+The application is in draft stage, usage instructions will be provided later.
 
 ## Support and Feedback
 If you want to help us, you can fill the form :
