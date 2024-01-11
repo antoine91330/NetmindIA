@@ -25,10 +25,7 @@ Unlike other solutions on the market, ours focuses on SMEs by constructing an AI
 ![Screenshot 1](image/LoginPage.png)
 *The login page*
 
-
-
 ![Screenshot 2](image/HomepageDashboard.png)
-HomepageDashboard
 *The Homepage with dashboards*
 
 ![Screenshot 3](image/ScanList.png) 
