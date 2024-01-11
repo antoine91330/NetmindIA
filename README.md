@@ -50,7 +50,7 @@ Directly on the homepage, our app displays the most important vulnerabilities to
 - **AI Detection:**
 In our application, we leverage AI to prioritize patching for the most prevalent vulnerabilities, based on the latest cyber attacks targeting SMEs. This intelligent system analyzes recent cyber incidents within the SME sector, allowing us to proactively address and patch the vulnerabilities that pose the highest risk, enhancing overall cybersecurity effectiveness.
 
-- **User-Friendly Interface:** Mention if your app has an easy-to-use interface for users.
+- **User-Friendly Interface:**
 Our app is user-friendly thanks to the homepage dashboards, the simplicity to patch vulnerabulities in few clicks and a chatbox that can help you if you are in trouble.
 
 ## Installation
