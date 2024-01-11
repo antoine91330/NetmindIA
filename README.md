@@ -45,7 +45,10 @@ Unlike other solutions on the market, ours focuses on SMEs by constructing an AI
 List the key features of your app:
 
 - **Patch Management:** Describe how your app handles patching to mitigate frequent cyberattacks.
+Directly on the homepage, our app displays the most important vulnerabilities to patch and the most exposed machines. Dashboards are also here to help understanding the network security score you have.
+
 - **AI Detection:** Highlight the AI capabilities for detecting and preventing cyber threats.
+
 - **User-Friendly Interface:** Mention if your app has an easy-to-use interface for users.
 
 ## Installation
