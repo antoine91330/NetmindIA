@@ -35,7 +35,7 @@ List the key features of your app:
 
 ## Installation
 
-Provide instructions on how users can install and set up your app.
+The application is in draft stage, installation instructions will be provided later.
 
 ## Usage
 
