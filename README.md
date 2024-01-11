@@ -23,23 +23,23 @@ Unlike other solutions on the market, ours focuses on SMEs by constructing an AI
 ## Screenshots
 
 ![Screenshot 1](image/LoginPage.png)
-*Caption for Screenshot 1*
+*The login page*
 
 ![Screenshot 2](image/HomepageDashboard.png)
 HomepageDashboard
-*Caption for Screenshot 2*
+*The Homepage with dashboards*
 
 ![Screenshot 3](image/ScanList.png) 
-*Caption for Screenshot 3*
+*The list of scan*
 
 ![Screenshot 4](image/ITinfrastructure.png)
-*Caption for Screenshot 4*
+*The IT Infrastructure*
 
 ![Screenshot 5](image/VulnerabilityList.png) /
-*Caption for Screenshot 5*
+*The Vulnerability List*
 
 ![Screenshot 6](image/VulnerabilityDetail.png)
-*Caption for Screenshot 6*
+*The detail of the chosen vulnerability*
 
 ## Features
 
