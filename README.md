@@ -25,6 +25,8 @@ Unlike other solutions on the market, ours focuses on SMEs by constructing an AI
 ![Screenshot 1](image/LoginPage.png)
 *The login page*
 
+
+
 ![Screenshot 2](image/HomepageDashboard.png)
 HomepageDashboard
 *The Homepage with dashboards*
@@ -35,7 +37,7 @@ HomepageDashboard
 ![Screenshot 4](image/ITinfrastructure.png)
 *The IT Infrastructure*
 
-![Screenshot 5](image/VulnerabilityList.png) /
+![Screenshot 5](image/VulnerabilityList.png)
 *The Vulnerability List*
 
 ![Screenshot 6](image/VulnerabilityDetail.png)
