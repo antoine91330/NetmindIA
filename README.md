@@ -19,10 +19,10 @@ HomepageDashboard
 ![Screenshot 4](image/ITinfrastructure.png)
 *Caption for Screenshot 4*
 
-![Screenshot 5](image/VulnerabilityDetail.png)
+![Screenshot 5](image/VulnerabilityList.png) /
 *Caption for Screenshot 5*
 
-![Screenshot 6](image/VulnerabilityList.png)
+![Screenshot 6](image/VulnerabilityDetail.png)
 *Caption for Screenshot 6*
 
 ## Features
