@@ -6,10 +6,11 @@ Describe your AI-based app briefly, highlighting its key features and how it imp
 
 ## Screenshots
 
-![Screenshot 1](image/HomepageDashboard.png)
+![Screenshot 1](image/LoginPage.png)
 *Caption for Screenshot 1*
 
-![Screenshot 2](image/LoginPage.png)
+![Screenshot 2](image/HomepageDashboard.png)
+HomepageDashboard
 *Caption for Screenshot 2*
 
 ![Screenshot 3](image/ITinfrastructure.png)
