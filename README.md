@@ -48,7 +48,7 @@ To assist SMEs, we offer two types of packages. The first is the package where w
 Directly on the homepage, our app displays the most important vulnerabilities to patch and the most exposed machines. Dashboards are also here to help understanding the network security score you have.
 
 - **AI Detection:**
-In our application, we leverage AI to prioritize patching for the most prevalent vulnerabilities, based on the latest cyber attacks targeting SMEs. This intelligent system analyzes recent cyber incidents within the SME sector, allowing us to proactively address and patch the vulnerabilities that pose the highest risk, enhancing overall cybersecurity effectiveness.
+In our application, we leverage AI to prioritize patching for the most prevalent vulnerabilities, based on the latest cyber attacks targeting SMEs. This intelligent system analyzes recent cyber incidents within the SME sector, allowing us to proactively address and patch the vulnerabilities that pose the highest risk, enhancing overall cybersecurity effectiveness. Our AI will automatically find and propose to you the appropriate patch and procedure (only if the procedure exist).
 
 - **User-Friendly Interface:**
 Our app is user-friendly thanks to the homepage dashboards, the simplicity to patch vulnerabulities in few clicks and a chatbox that can help you if you are in trouble.
