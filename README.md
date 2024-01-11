@@ -20,6 +20,8 @@ Value Proposition:
 
 Unlike other solutions on the market, ours focuses on SMEs by constructing an AI capable of correlating potential vulnerabilities with previously occurred attack cases in the same sector (meaning that if another SME has recently experienced a certain type of attack, our AI will prioritize patching for that specific type of attack). It offers a range of automated actions to save time for your CIO in implementing patches for these vulnerabilities. Finally, it aims to be as effective as possible by prioritizing vulnerabilities based on the organization's context to focus primarily on the most dangerous vulnerabilities affecting the operation of your organization.
 
+To assist SMEs, we offer two types of packages. The first is the package where we leave the administration of the tool to the client. This option is suitable for businesses with the resources to manage the solution internally. The second is the package where we handle the administration of the tool, allowing the company's resources to concentrate on patching vulnerabilities. Our team will be responsible for reporting vulnerabilities back to the company.
+
 ## Screenshots
 
 ![Screenshot 1](image/LoginPage.png)
@@ -45,7 +47,8 @@ Unlike other solutions on the market, ours focuses on SMEs by constructing an AI
 - **Patch Management:**
 Directly on the homepage, our app displays the most important vulnerabilities to patch and the most exposed machines. Dashboards are also here to help understanding the network security score you have.
 
-- **AI Detection:** Highlight the AI capabilities for detecting and preventing cyber threats.
+- **AI Detection:**
+In our application, we leverage AI to prioritize patching for the most prevalent vulnerabilities, based on the latest cyber attacks targeting SMEs. This intelligent system analyzes recent cyber incidents within the SME sector, allowing us to proactively address and patch the vulnerabilities that pose the highest risk, enhancing overall cybersecurity effectiveness.
 
 - **User-Friendly Interface:** Mention if your app has an easy-to-use interface for users.
 
